@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ChilliDinner {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        // Bunch of comments
         // Prices
         final double ADULT_PRICE = 50.00;
         final double CHILD_PRICE = 37.50;
